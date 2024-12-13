@@ -1,0 +1,9 @@
+{
+    "token": "",
+    "appId": "",
+    "deviceAuths": {
+        "accountId": "",
+        "deviceId": "",
+        "secret": ""
+    }
+}
